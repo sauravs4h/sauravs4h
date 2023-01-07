@@ -5,8 +5,14 @@
 <img align="right" alt="sk" width="400" src="https://camo.githubusercontent.com/97d0c0c4209208d8ec9573c7e213e05872a9f59b703868647b559b77af601cc6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sauravs4h&label=Profile%20views&color=0e75b6&style=flat" alt="sauravs4h" /> </p>
+<div>
+  <a href="https://sauravs4h.github.io/"><h2>ABOUT</h2></a>
+  <p>
+    A passionate and adaptable web developer, skilled in JavaScript, Node JS, Express, MongoDB, with proficiency in problem-solving.. A dependable and responsible team player with an eye to detail. Looking for a position to enhance once skills while significantly contributing to the company's growth.
+  </p>
+</div>
 
-- 🌱 I’m currently learning **NodeJS, MongoDB, ExpressJS**
+
 
 - 👨‍💻 All of my projects are available at [https://sauravs4h.github.io/](https://sauravs4h.github.io/)
 
