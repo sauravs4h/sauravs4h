@@ -1,3 +1,4 @@
+![logo](https://github.com/sauravs4h/sauravs4h/blob/main/poster.png)
 <h1 align="center">Hi 👋, I'm Saurav Sharma</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
