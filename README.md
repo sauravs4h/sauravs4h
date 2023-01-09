@@ -6,15 +6,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sauravs4h&label=Profile%20views&color=0e75b6&style=flat" alt="sauravs4h" /> </p>
 <div>
-  <a href="https://sauravs4h.github.io/" target="_blank"><h2>ABOUT</h2></a>
+  <a href="https://sauravs4h.github.io/" target="_blank"><h2> ABOUT </h2></a>
   <p>
     A passionate and adaptable web developer, skilled in JavaScript, Node JS, Express, MongoDB, with proficiency in problem-solving.. A dependable and responsible team player with an eye to detail. Looking for a position to enhance once skills while significantly contributing to the company's growth.
   </p>
 </div>
-
+<br>
+<br>
 
 <div>
-  <a href="https://drive.google.com/drive/folders/1NdjddpneGAKrKilHEGGTXK0qE49CzqFG?usp=sharing" target="_blank"><h2>RESUME</h2></a>
+  <h2><a href="https://drive.google.com/drive/folders/1NdjddpneGAKrKilHEGGTXK0qE49CzqFG?usp=sharing" target="_blank">RESUME</a> &nbsp &nbsp &nbsp &nbsp <a href="https://sauravs4h.github.io/" target="_blank" >PORTFOLIO</a></h2>
+  
   
 </div>
 
