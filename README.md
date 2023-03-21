@@ -16,7 +16,7 @@
 <br>
 
 <div>
-  <h2><a href="https://drive.google.com/drive/folders/1NdjddpneGAKrKilHEGGTXK0qE49CzqFG?usp=sharing" target="_blank">RESUME</a> &nbsp &nbsp &nbsp &nbsp <a href="https://sauravs4h.github.io/" target="_blank" >PORTFOLIO</a></h2>
+  <h2><a href="https://drive.google.com/file/d/1xBDgi03qOPC1fxeHcpOCkA6Xlpcna3yv/view?usp=sharing" target="_blank">RESUME</a> &nbsp &nbsp &nbsp &nbsp <a href="https://sauravs4h.github.io/" target="_blank" >PORTFOLIO</a></h2>
   
   
 </div>
