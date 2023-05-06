@@ -36,7 +36,7 @@
   
 </p>
 
-<p> How to reach to me <a href="https://www.linkedin.com/in/saurav-sharma-931262178/"> LinkedIn</a> <p>
+
 
 
 
