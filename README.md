@@ -29,6 +29,7 @@
 
 
 <p align="left">
+  LinkedIN
   <a href="https://www.linkedin.com/in/saurav-sharma-931262178/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" /></a>&emsp;
 <!--   <a title="sauravs4h@gmail.com" href="sauravs4h@gmail.com" target="blank"><img align="center"  src="https://cdn-icons-png.flaticon.com/128/888/888853.png"  width="50px"   alt="mail-me" /></a>&emsp; -->
   <a href="https://sauravs4h.github.io/" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/107247913/185736439-402f6025-1e63-4eb3-b770-aacd5e4b1386.png"  width="50px" alt="portfolio" /></a>&emsp;
